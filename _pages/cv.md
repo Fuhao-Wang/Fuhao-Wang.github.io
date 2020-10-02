@@ -11,14 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics, Guanghua School of Management, Peking University, 2017
-* B.S. in Statistics, Sun Yat-sen University, 2013
+* MA in Economics,  Northwest University, 2021
+* BA. in Economics, Nanjing University of Posts and Telecommunications, 2018
 
 Work experience
 ======
-* Summer 2017: Research Associate
-  * Penn State University
-  * Supervisor: Professor Runze Li
+
   
 Skills
 ======
