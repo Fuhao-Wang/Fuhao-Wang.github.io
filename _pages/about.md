@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am currently a master student in [School of Economics & Management](https://ems.nwu.edu.cn/) at Northwest University.  My research interests are mainly on econometrics and statistical learning. 
+I am currently a master student in [School of Economics & Management](http://ems.nwu.edu.cn/) at Northwest University.  My research interests are mainly on econometrics and statistical learning. 
 
 
 # Education
